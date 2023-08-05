@@ -6,5 +6,5 @@ It's a basic and very early Physics Engine for Unity with Basic Rigid body Physi
 
 P.S. It's a very early engine, It might not work properly and contain a lot of Bugs.
 
-## Installation
+## Usage/Installation
 Simply Copy this Repo into your Unity project. Delete /Main/PhysXEngine/PhysXEngine.asmdef if you don't use any Assembly Definition. And Include /Main/PhysXEngine/PhysXEngine.asmdef in your other Assembly Definition if you're using one.
